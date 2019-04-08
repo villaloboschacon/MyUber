@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "929304556275",
+    "firebase_url": "https://myuber-villaloboschacon.firebaseio.com",
+    "project_id": "myuber-villaloboschacon",
+    "storage_bucket": "myuber-villaloboschacon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929304556275:android:d6b6d545803d1e33",
+        "android_client_info": {
+          "package_name": "com.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929304556275-tptfl4qic8d8egrmok22e46shoq724a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uber",
+            "certificate_hash": "3fe67eeb60f74cf4e51b3c1fd87cb668da37575c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAexnaGQ6ShY_yoR0OoFdqaHTT_Wh7k5b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929304556275-7otriajftj2h2fqveoo8k34cfna193p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
